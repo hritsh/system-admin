@@ -112,9 +112,9 @@ def print_shortcut_report():
     print(f"\nThe number of links is {colorize(str(len(links)), 'yellow')}.\n")
     print(colorize("Symbolic Link", "underline"),
           colorize("Target", "underline"), sep="\t\t")
-    # print links by scanning the home directory and printing the name and target of only the links
+    # print links by scanning the home directory and printing the name and link
     for link in links:
-        target = os.readlink(link.path)
+        target = os.path.realpath(link)
         print(link.name, target, sep="\t\t")
     choice = input(
         f"\n\nTo return to the {colorize('Main Menu', 'yellow')}, press {colorize('Enter', 'yellow')}. Or select {colorize('R/r', 'yellow')} to remove a link. ")
