@@ -1,0 +1,128 @@
+Script started on 2021-05-25 13:10:41-07:00
+]777;notify;Command completed;ssh gpavks@serenity.ist.rit.edu]0;student@gpavks:~/scripts/script01]7;file://gpavks/home/student/scripts/script01[student@gpavks script01]$ ./ping_test.py 
+[3J[H[2J	**************************************
+	******[92m Ping Test Troubleshooter [0m******
+	**************************************
+
+
+Enter Selection:
+
+	1 - Test connectivity to your gateway.
+	2 - Test for remote connectivity.
+	3 - Test for DNS resolution.
+	4 - Display gateway IP Address.
+
+Please enter a [1m[92mnumber (1-4)[0m or[1m[92m "Q/q" [0mto quit the program.	1
+[3J[H[2JTesting Connectivity to your gateway...
+
+[3J[H[2JRunning test, please wait.
+
+Please inform your system administrator that the test was[1m[93m SUCCESSFUL[0m!
+
+[3J[H[2J	**************************************
+	******[92m Ping Test Troubleshooter [0m******
+	**************************************
+
+
+Enter Selection:
+
+	1 - Test connectivity to your gateway.
+	2 - Test for remote connectivity.
+	3 - Test for DNS resolution.
+	4 - Display gateway IP Address.
+
+Please enter a [1m[92mnumber (1-4)[0m or[1m[92m "Q/q" [0mto quit the program.	2
+[3J[H[2JTesting for remote connectivity... trying IP address 8.8.8.8.
+
+[3J[H[2JRunning test, please wait.
+
+Please inform your system administrator that the test was[1m[93m SUCCESSFUL[0m!
+
+[3J[H[2J	**************************************
+	******[92m Ping Test Troubleshooter [0m******
+	**************************************
+
+
+Enter Selection:
+
+	1 - Test connectivity to your gateway.
+	2 - Test for remote connectivity.
+	3 - Test for DNS resolution.
+	4 - Display gateway IP Address.
+
+Please enter a [1m[92mnumber (1-4)[0m or[1m[92m "Q/q" [0mto quit the program.	3
+[3J[H[2JResolving DNS: trying URL... www.google.com.
+
+ping: www.google.com: Name or service not known
+[3J[H[2JRunning Test, please wait.
+
+Please inform your system administrator the test has[1m[91m FAILED[0m!
+[3J[H[2J	**************************************
+	******[92m Ping Test Troubleshooter [0m******
+	**************************************
+
+
+Enter Selection:
+
+	1 - Test connectivity to your gateway.
+	2 - Test for remote connectivity.
+	3 - Test for DNS resolution.
+	4 - Display gateway IP Address.
+
+Please enter a [1m[92mnumber (1-4)[0m or[1m[92m "Q/q" [0mto quit the program.	4
+[3J[H[2J
+Your gateway IP address is [93m192.168.135.2[0m.
+[3J[H[2J[3J[H[2J	**************************************
+	******[92m Ping Test Troubleshooter [0m******
+	**************************************
+
+
+Enter Selection:
+
+	1 - Test connectivity to your gateway.
+	2 - Test for remote connectivity.
+	3 - Test for DNS resolution.
+	4 - Display gateway IP Address.
+
+Please enter a [1m[92mnumber (1-4)[0m or[1m[92m "Q/q" [0mto quit the program.	fgjhskhnfekhs
+
+You entered an [1m[91minvalid option[0m!
+
+Please select a number between 1 through 4.
+[3J[H[2J	**************************************
+	******[92m Ping Test Troubleshooter [0m******
+	**************************************
+
+
+Enter Selection:
+
+	1 - Test connectivity to your gateway.
+	2 - Test for remote connectivity.
+	3 - Test for DNS resolution.
+	4 - Display gateway IP Address.
+
+Please enter a [1m[92mnumber (1-4)[0m or[1m[92m "Q/q" [0mto quit the program.	one
+
+You entered an [1m[91minvalid option[0m!
+
+Please select a number between 1 through 4.
+[3J[H[2J	**************************************
+	******[92m Ping Test Troubleshooter [0m******
+	**************************************
+
+
+Enter Selection:
+
+	1 - Test connectivity to your gateway.
+	2 - Test for remote connectivity.
+	3 - Test for DNS resolution.
+	4 - Display gateway IP Address.
+
+Please enter a [1m[92mnumber (1-4)[0m or[1m[92m "Q/q" [0mto quit the program.	q
+[3J[H[2J
+Quiting program: returning to shell.
+[93m 
+Have a wonderful day![0m
+[3J[H[2J]777;notify;Command completed;./ping_test.py ]0;student@gpavks:~/scripts/script01]7;file://gpavks/home/student/scripts/script01[student@gpavks script01]$ exit
+
+Script done on 2021-05-25 13:11:48-07:00
